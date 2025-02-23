@@ -1,1 +1,1 @@
-Uni. Project for DBMS.
+Uni. Project for DBM(A)S.
